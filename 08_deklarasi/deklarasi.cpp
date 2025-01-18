@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; // ini digunakan agar tidak usah memanggil std lagi
 
 int main(){
 	
